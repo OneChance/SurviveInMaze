@@ -1,6 +1,10 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.9",
+	"EngineAssociation": "4.21",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"TargetPlatforms": [
+		"Android",
+		"WindowsNoEditor"
+	]
 }
